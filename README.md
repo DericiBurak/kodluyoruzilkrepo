@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-
+patika dev profil linkim https://app.patika.dev/brkdrc Burak Derici
 Bu repo [kodluyoruz](https://kodluyoruz.org) Font-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Projede kullanılan örnek resim](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true)
